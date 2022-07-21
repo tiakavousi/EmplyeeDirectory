@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Team Player",
+    "imageFilePath": "images/badges/team-player.png"
+  },
+  {
+    "id": 2,
+    "name": "Karaoke Star",
+    "imageFilePath": "images/badges/karaoke.png"
+  },
+  {
+    "id": 3,
+    "name": "Fashionista",
+    "imageFilePath": "images/badges/fashionista.png"
+  },
+  {
+    "id": 4,
+    "name": "Nice Kicks",
+    "imageFilePath": "images/badges/nice-kicks.png"
+  },
+  {
+    "id": 5,
+    "name": "Helping Hand",
+    "imageFilePath": "images/badges/helping-hand.png"
+  },
+  {
+    "id": 6,
+    "name": "Comic Relief",
+    "imageFilePath": "images/badges/comic-relief.png"
+  },
+  {
+    "id": 7,
+    "name": "Ninja",
+    "imageFilePath": "images/badges/ninja.png"
+  },
+  {
+    "id": 8,
+    "name": "Pirate",
+    "imageFilePath": "images/badges/pirate.png"
+  },
+  {
+    "id": 9,
+    "name": "Ray of Sunshine",
+    "imageFilePath": "images/badges/ray-of-sunshine.png"
+  },
+  {
+    "id": 10,
+    "name": "Above and Beyond",
+    "imageFilePath": "images/badges/above-and-beyond.png"
+  },
+  {
+    "id": 11,
+    "name": "Superhero",
+    "imageFilePath": "images/badges/superhero.png"
+  },
+  {
+    "id": 12,
+    "name": "SongRiver Smartypants",
+    "imageFilePath": "images/badges/songriver-smartypants.png"
+  },
+  {
+    "id": 13,
+    "name": "Super Snacker",
+    "imageFilePath": "images/badges/super-snacker.png"
+  },
+  {
+    "id": 14,
+    "name": "Desk Jungle",
+    "imageFilePath": "images/badges/desk-jungle.png"
+  },
+  {
+    "id": 15,
+    "name": "Standing Ovation",
+    "imageFilePath": "images/badges/standing-ovation.png"
+  },
+  {
+    "id": 16,
+    "name": "Highest of Fives",
+    "imageFilePath": "images/badges/highest-of-fives.png"
+  },
+  {
+    "id": 17,
+    "name": "Early Bird",
+    "imageFilePath": "images/badges/early-bird.png"
+  },
+  {
+    "id": 18,
+    "name": "Rubber Duck Award",
+    "imageFilePath": "images/badges/rubber-duck.png"
+  },
+  {
+    "id": 19,
+    "name": "Coffee Lover",
+    "imageFilePath": "images/badges/coffee-lover.png"
+  },
+  {
+    "id": 20,
+    "name": "Teapot",
+    "imageFilePath": "images/badges/teapot.png"
+  },
+  {
+    "id": 21,
+    "name": "Baker Extraordinaire",
+    "imageFilePath": "images/badges/baker-extraordinaire.png"
+  },
+  {
+    "id": 22,
+    "name": "Minister of Morale",
+    "imageFilePath": "images/badges/minister-of-morale.png"
+  },
+  {
+    "id": 23,
+    "name": "Search and Rescue",
+    "imageFilePath": "images/badges/search-and-rescue.png"
+  },
+  {
+    "id": 24,
+    "name": "Computer Whisperer",
+    "imageFilePath": "images/badges/computer-whisperer.png"
+  },
+  {
+    "id": 25,
+    "name": "Bug Squasher",
+    "imageFilePath": "images/badges/bug-squasher.png"
+  },
+  {
+    "id": 26,
+    "name": "Gaming Wizard",
+    "imageFilePath": "images/badges/gaming-wizard.png"
+  },
+  {
+    "id": 27,
+    "name": "Road Warrior",
+    "imageFilePath": "images/badges/road-warrior.png"
+  },
+  {
+    "id": 28,
+    "name": "Night Owl",
+    "imageFilePath": "images/badges/night-owl.png"
+  },
+  {
+    "id": 29,
+    "name": "Song Collector",
+    "imageFilePath": "images/badges/song-collector.png"
+  },
+  {
+    "id": 30,
+    "name": "Rock Star",
+    "imageFilePath": "images/badges/rock-star.png"
+  }
+]
