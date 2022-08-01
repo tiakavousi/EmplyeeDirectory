@@ -372,7 +372,7 @@
     "id": 63,
     "firstName": "Derrick",
     "lastName": "Collins",
-    "imageFilePath": "images/employees/m-14.png",
+    "imageFilePath": "images/employees/m-22.png",
     "teamName": "Engineering",
     "jobTitle": "Web Designer",
     "badgeIds": []
@@ -417,7 +417,7 @@
     "id": 164,
     "firstName": "Eliza",
     "lastName": "Barnard",
-    "imageFilePath": "images/employees/f-30.png",
+    "imageFilePath": "images/employees/f-31.png",
     "teamName": "Marketing",
     "jobTitle": "VP Marketing",
     "badgeIds": []
@@ -518,7 +518,7 @@
     "lastName": "Dominguez",
     "imageFilePath": "images/employees/n-16.png",
     "teamName": "Engineering",
-    "jobTitle": "Engineering Manager",
+    "jobTitle": "Product Engineer",
     "badgeIds": [12, 7, 8]
   },
   {
@@ -641,8 +641,8 @@
   {
     "id": 69,
     "firstName": "Hannah",
-    "lastName": "McPherson",
-    "imageFilePath": "images/employees/f-8.png",
+    "lastName": "Singh",
+    "imageFilePath": "images/employees/f-34.png",
     "teamName": "Marketing",
     "jobTitle": "Marketing Manager",
     "badgeIds": [28, 15, 19]
@@ -741,7 +741,7 @@
     "id": 74,
     "firstName": "Jim",
     "lastName": "Burnett",
-    "imageFilePath": "images/employees/n-12.png",
+    "imageFilePath": "images/employees/n-17.png",
     "teamName": "Engineering",
     "jobTitle": "Senior Software Engineer",
     "badgeIds": []
@@ -768,7 +768,7 @@
     "id": 139,
     "firstName": "Joan",
     "lastName": "Sweet",
-    "imageFilePath": "images/employees/f-28.png",
+    "imageFilePath": "images/employees/f-33.png",
     "teamName": "Sales",
     "jobTitle": "Sales Manager",
     "badgeIds": []
@@ -786,7 +786,7 @@
     "id": 162,
     "firstName": "John",
     "lastName": "Riddle",
-    "imageFilePath": "images/employees/m-19.png",
+    "imageFilePath": "images/employees/m-22.png",
     "teamName": "Legal",
     "jobTitle": "Media Rights Manager",
     "badgeIds": [24, 3]
@@ -1227,7 +1227,7 @@
     "id": 88,
     "firstName": "Nicole",
     "lastName": "McCarthy",
-    "imageFilePath": "images/employees/f-28.png",
+    "imageFilePath": "images/employees/f-33.png",
     "teamName": "Customer Success",
     "jobTitle": "Account Representative",
     "badgeIds": []
@@ -1299,7 +1299,7 @@
     "id": 95,
     "firstName": "Philip",
     "lastName": "Hatfield",
-    "imageFilePath": "images/employees/n-12.png",
+    "imageFilePath": "images/employees/n-17.png",
     "teamName": "People",
     "jobTitle": "Employee Relations",
     "badgeIds": [27, 25, 18]
@@ -1623,7 +1623,7 @@
     "id": 152,
     "firstName": "Valerie",
     "lastName": "Springer",
-    "imageFilePath": "images/employees/f-29.png",
+    "imageFilePath": "images/employees/f-32.png",
     "teamName": "Engineering",
     "jobTitle": "VP Product Management",
     "badgeIds": [27, 15, 10]
@@ -1649,7 +1649,7 @@
   {
     "id": 49,
     "firstName": "Ventura",
-    "lastName": "Canning",
+    "lastName": "Marquez",
     "imageFilePath": "images/employees/n-7.png",
     "teamName": "Engineering",
     "jobTitle": "Web Designer",
