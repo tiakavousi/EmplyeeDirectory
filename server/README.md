@@ -20,15 +20,15 @@ Get information for all badges.
 **Query params**: none
 **Returns**: JSON array of all badges. See `/src/types/index.ts` for properties of `Badge` type.
 
-### GET `/employees?filter=`
+### GET `/employees?q=`
 
 Get information for employees whose name and/or team match the filter string, case insensitive
 
 **URL params**: none
-**Query params**: `filter`, the term for which to filter employees
-**Returns**: JSON array of employees (without badge details), filtered by `filter` term. See `/src/types/index.ts` for properties of `Employee` type.
+**Query params**: `q`, the term for which to filter employees
+**Returns**: JSON array of employees (without badge details), filtered by the `q` term. See `/src/types/index.ts` for properties of `Employee` type.
 
-#### Example: `/employees?filter=manning`
+#### Example: `/employees?q=manning`
 
 ### GET `/employees/:employeeId`
 
