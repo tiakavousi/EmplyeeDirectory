@@ -22,13 +22,13 @@ Get information for all badges.
 
 ### GET `/employees?q=`
 
-Get information for employees whose name and/or team match the filter string, case insensitive
+Get information for employees whose name and/or job title match the filter string, case insensitive
 
 **URL params**: none
 **Query params**: `q`, the term for which to filter employees
 **Returns**: JSON array of employees (without badge details), filtered by the `q` term. See `/src/types/index.ts` for properties of `Employee` type.
 
-#### Example: `/employees?q=manning`
+#### Example: `/employees?q=ann`
 
 ### GET `/employees/:employeeId`
 
