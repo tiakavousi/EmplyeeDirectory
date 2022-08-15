@@ -30,7 +30,7 @@ export async function getFiltered(
 export async function addBadge(req: Request, res: Response): Promise<Response> {
   const { employeeId } = req.params;
   const { badgeId } = req.query;
-  if (!badgeId) {
+  if (!badgeId || Number(badgeId) !== parseInt(badgeId, 10)) {
     return res
       .status(400)
       .json({ message: 'badgeId is required to get add badge' });
