@@ -1,2 +1,2 @@
-# implement-page-for-individual-employee-lp-author
-Repository for liveProject: Implement Page for Individual Employee
+# create-employee-page-lp-author
+Repository for liveProject: Create Employee Page
