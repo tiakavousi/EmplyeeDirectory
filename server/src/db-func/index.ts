@@ -95,9 +95,7 @@ export async function getFilteredEmployees(
   const filteredEmployees = employees.filter(
     (employee) =>
       employee.firstName.toLowerCase().includes(lowerq) ||
-      employee.lastName.toLowerCase().includes(lowerq) ||
-      employee.teamName.toLowerCase().includes(lowerq) ||
-      employee.jobTitle.toLowerCase().includes(lowerq),
+      employee.lastName.toLowerCase().includes(lowerq),
   );
   return filteredEmployees;
 }
