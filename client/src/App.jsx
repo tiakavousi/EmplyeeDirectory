@@ -3,7 +3,7 @@ import {Routes, Route} from "react-router-dom";
 
 
 import { Header } from "./components/Header";
-import Employee from "./components/Employee";
+import { Employee } from "./components/Employee";
 
 
 function App() {
